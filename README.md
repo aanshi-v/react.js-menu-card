@@ -1,3 +1,25 @@
+# React.js Menu Card Project
+
+This is a simple menu card project created using **React.js**, **HTML**, **CSS**, and **JavaScript**. It displays a static menu layout styled with CSS and structured using reusable React components.
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+## ✨ Features
+
+- Clean and responsive menu card layout
+- Component-based structure using React
+- Easy-to-read and customizable code
+
+
+---
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
